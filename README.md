@@ -106,7 +106,7 @@ Copy one files content into another file.
 ## 🚀 Purpose
 
 This repository is intended for:
-- Beginners learning C++
+- Beginners learning python
 - Understanding basic array operations
 - Practicing searching and sorting algorithms
 - Building a strong programming foundation
