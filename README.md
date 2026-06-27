@@ -113,7 +113,7 @@ This repository is intended for:
 
 ## 🛠️ Language Used
 
-- C++
+- python
 
 
 ## ▶️ How to Run
