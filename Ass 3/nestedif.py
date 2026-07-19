@@ -4,4 +4,4 @@ if(marks>=90) :
 if(marks>=60 and marks<90):
     print("Cndidate's grade is B")
 else :
-     print("Cndidate is not passed")
+    print("Cndidate is not passed")
