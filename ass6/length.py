@@ -1,2 +1,2 @@
 lst = [10, 20, 30, 40]
-print(len(lst))
+print("Length of list is : " ,len(lst))

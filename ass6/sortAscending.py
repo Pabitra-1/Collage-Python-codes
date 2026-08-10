@@ -1,4 +1,4 @@
 lst = [30, 10, 40, 20]
 lst.sort()
 
-print(lst)
+print("List in ascending order : ",lst)
