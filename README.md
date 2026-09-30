@@ -119,5 +119,5 @@ This repository is intended for:
 ## ▶️ How to Run
 
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/Pabitra-1/cpp_codes_collage.git
