@@ -1,4 +1,4 @@
- <div align="center">   Python Codes </div>
+ <div align="center">   python codes </div>
  <hr>
 
 A collection of basic python programs demonstrating fundamental array operations and algorithms.
