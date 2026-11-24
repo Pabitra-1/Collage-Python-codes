@@ -1,0 +1,11 @@
+import numpy as np
+arr1 = np.array([1,2,30,40])
+print("Array : ",arr1)
+print("Square root : ",np.sqrt(arr1))
+print("Exponential : ",np.exp(arr1))
+print("Logarithm : ",np.log(arr1))
+print("Sine : ",np.sin(arr1))
+print("Cosine : ",np.cos(arr1))
+print("Tangent : ",np.tan(arr1))
+print("Maximum : ",np.maximum(arr1,10))
+print("Minimum : ",np.minimum(arr1,10))
