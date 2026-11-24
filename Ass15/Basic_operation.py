@@ -1,0 +1,15 @@
+import numpy as np
+
+arr = np.array([1,2,3,4,5])
+print("Array : ",arr)
+print("Addition of 5 : ",arr+5)
+print("Subtraction of 5 : ",arr-5)
+print("Multiplication of 3 : ",arr*3)
+print("Division of 2 : ",arr/2)
+print("Square of array : ",arr**2)
+print("Sum of array : ",arr.sum())
+print("Mean of array : ",arr.mean())
+print("Standard Deviation of array : ",arr.std())
+print("Variance of array : ",arr.var())
+print("Minimum of array : ",arr.min())
+print("Maximum of array : ",arr.max())

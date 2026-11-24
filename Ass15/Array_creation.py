@@ -1,0 +1,13 @@
+import numpy as np 
+arr1 = np.array([1,2,3,4])
+print("Array : ",arr1)
+arr2 = np.zeros(5)
+print("Zeros : ",arr2)
+arr3 = np.ones(5)
+print("Ones : ",arr3)
+arr4 = np.arange(1,10)
+print("Arrange : ",arr4)
+arr5 = np.linspace(1,10,5)
+print("Linspace : ",arr5)
+arr6 = np.full(5,6)
+print("Full : ",arr6)
